@@ -1,0 +1,8 @@
+{
+  "server": { "host": "ENDERLORD121.aternos.me", "port": 47235, "version": "" },
+  "auth": { "enabled": false, "registerPassword": "", "loginPassword": "" },
+  "bots": [ {"username":"1"}, {"username":"2"}, {"username":"3"}, {"username":"4"}, {"username":"5"} ],
+  "build": { "enabled": true, "origin": {"x":0,"y":100,"z":0}, "plotSize": 40, "allowCreativeCommands": false, "maxBlocksPerTick": 4, "followDistance": 8, "placeDelayMs": 250 },
+  "ai": { "enabled": false, "provider": "gemini", "apiKey": "", "model": "gemini-2.5-flash" },
+  "dashboard": { "port": 5000 }
+}
